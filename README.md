@@ -157,16 +157,15 @@ Install and configure Kali Linux in Oracle VM VirtualBox.
 ### NOTEPAD METHOD
 ![Screenshot 2025-03-20 144343](https://github.com/user-attachments/assets/61c1c800-360a-400c-8aef-b579bcd9f5de)
 
+
+### CHMOD METHOD
+
+
 ![Screenshot 2025-03-20 143531](https://github.com/user-attachments/assets/882fb0c5-1bc0-4f32-82df-435501ddcca6)
 
 
 ### TERMINAL METHOD
 
-
-![Screenshot 2025-03-20 143531](https://github.com/user-attachments/assets/882fb0c5-1bc0-4f32-82df-435501ddcca6)
-
-
-### CHMOD METHOD
 
 ![Screenshot 2025-03-20 143841](https://github.com/user-attachments/assets/a93e27f0-c6eb-4e9f-a160-fa16d44945e3)
 
